@@ -1,7 +1,10 @@
 README
 
 for packages see releases
-as an example
+# as an example
+
+# convert a PNG like this to JPG then to ASCII artwork
+![s1](https://raw.githubusercontent.com/c4pt000/jp2a/master/radiox.png)
 
 ```
 [root@fedora]─[~]
