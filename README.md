@@ -1,5 +1,7 @@
 README
-
+```
+jp2a radiox.jpg --size=135x15
+```
 (oldie but goodie)
 
 for packages see releases
